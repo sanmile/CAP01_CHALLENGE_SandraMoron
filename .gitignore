@@ -1,0 +1,5 @@
+.pytest_cache
+Pipfile
+pytest_cache
+venv
+__pycache__
